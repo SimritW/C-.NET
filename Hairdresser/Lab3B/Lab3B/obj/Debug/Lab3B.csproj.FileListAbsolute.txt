@@ -1,0 +1,10 @@
+D:\Semester 3\C#\Lab3\B\Lab3B\Lab3B\bin\Debug\Lab3B.exe.config
+D:\Semester 3\C#\Lab3\B\Lab3B\Lab3B\bin\Debug\Lab3B.exe
+D:\Semester 3\C#\Lab3\B\Lab3B\Lab3B\bin\Debug\Lab3B.pdb
+D:\Semester 3\C#\Lab3\B\Lab3B\Lab3B\obj\Debug\Lab3B.csprojAssemblyReference.cache
+D:\Semester 3\C#\Lab3\B\Lab3B\Lab3B\obj\Debug\Lab3B.Form1.resources
+D:\Semester 3\C#\Lab3\B\Lab3B\Lab3B\obj\Debug\Lab3B.Properties.Resources.resources
+D:\Semester 3\C#\Lab3\B\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.GenerateResource.cache
+D:\Semester 3\C#\Lab3\B\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.CoreCompileInputs.cache
+D:\Semester 3\C#\Lab3\B\Lab3B\Lab3B\obj\Debug\Lab3B.exe
+D:\Semester 3\C#\Lab3\B\Lab3B\Lab3B\obj\Debug\Lab3B.pdb
